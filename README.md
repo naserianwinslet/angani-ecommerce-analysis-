@@ -63,9 +63,9 @@ and customer behavior across 2016–2018.
 5. Monitor top 10 customer dependency to reduce revenue concentration risk
 
 ## Files in This Repo
-- `angani_ecommerce.sql` — all SQL queries used
-- `dashboard.pbix` — Power BI dashboard file
-- `key_insights.png` — dashboard screenshot of key findings
+- `angani_moringa file 2.sql` — all SQL queries used
+- `angani_moringa.pbix` — Power BI dashboard file
+- `angani_moringa.pptx` — dashboard screenshot of key findings
 
 ## About This Project
 This project was completed as part of work with Angani Limited,
